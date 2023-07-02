@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3267615-3C9A-40E5-820A-F829D730A8ED}</ProjectGuid>
+    <ProjectGuid>{0F232A55-B0AF-42DD-BB09-2DB15C71CD10}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AB3_Aufgabe11_1</RootNamespace>
-    <AssemblyName>AB3-Aufgabe11-1</AssemblyName>
+    <RootNamespace>zeichen_ketten</RootNamespace>
+    <AssemblyName>zeichen-ketten</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
